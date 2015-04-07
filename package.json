@@ -1,0 +1,20 @@
+{
+  "name": "broccoli-java-properties-to-object",
+  "version": "0.0.1",
+  "description": "Broccoli preprocessor for properties files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "broccoli",
+    "java",
+    "properties"
+  ],
+  "author": "Willem de Wit <willem_wit@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-filter": "^0.1.12",
+    "java.properties.js": "0.0.2"
+  }
+}
