@@ -1,6 +1,6 @@
 {
   "name": "broccoli-java-properties-to-object",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Broccoli preprocessor for properties files",
   "main": "index.js",
   "scripts": {
