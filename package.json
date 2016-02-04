@@ -11,10 +11,10 @@
     "java",
     "properties"
   ],
-  "author": "Willem de Wit <willem_wit@hotmail.com>",
+  "author": "Willem de Wit",
   "license": "MIT",
   "dependencies": {
     "broccoli-filter": "^0.1.12",
-    "java.properties.js": "0.0.4"
+    "java.properties.js": "0.3.0"
   }
 }
