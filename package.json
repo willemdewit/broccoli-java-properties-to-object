@@ -11,7 +11,7 @@
     "java",
     "properties"
   ],
-  "author": "Willem de Wit",
+  "author": "Willem de Wit <willem_wit@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "broccoli-filter": "^0.1.12",
