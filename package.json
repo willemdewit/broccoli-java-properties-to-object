@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "broccoli-filter": "^0.1.12",
-    "java.properties.js": "0.3.0"
+    "java.properties.js": "1.0.0"
   }
 }
