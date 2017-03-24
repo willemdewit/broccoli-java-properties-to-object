@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha \"tests/acceptance/*.js\"",
+    "preversion": "npm run test",
     "postversion": "git push && git push --tags"
   },
   "keywords": [
