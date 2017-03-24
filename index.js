@@ -15,7 +15,7 @@ PropertiesFilter.prototype.extensions = ['properties'];
 PropertiesFilter.prototype.targetExtension = 'js';
 
 PropertiesFilter.prototype.processString = function (string, srcFile) {
-    return 'export default ' + JSON.stringify(propertiesToObject(string));
+    return 'export default ' + JSON.stringify(propertiesToObject(string)) + ';';
 };
 
 module.exports = PropertiesFilter;
